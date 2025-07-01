@@ -1,0 +1,12 @@
+{
+  "name": "music-rehearsal-webapp",
+  "version": "1.0.0",
+  "description": "Web app for music rehearsal scheduling and management",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "author": "DX ag",
+  "license": "MIT"
+}
